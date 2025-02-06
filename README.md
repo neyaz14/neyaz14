@@ -1,13 +1,102 @@
-<br clear="both">
+
+
 
 <div align="center">
-  <img height="240" src="https://i.ibb.co.com/TDFSL6xg/Creative-Studio-Name-Linked-In-Article-Cover-Image.png"  />
+  <!-- Header with gradient effect -->
+   <a href="https://git.io/typing-svg">
+    <img src="https://i.ibb.co.com/TDFSL6xg/Creative-Studio-Name-Linked-In-Article-Cover-Image.png" 
+         alt="Typing Animation">
+  </a>
+  </div>
+  
 </div>
 
-###
 
+## 👩‍💻 About Me
+
+# 👋 Hi, I'm Neyaz Morshid 
+
+<!--![](https://komarev.com/ghpvc/?username=neyaz14&label=Profile%20Visits&color=blue&style=for-the-badge)-->
+
+- I’m a passionate Frontend Developer and React.js Enthusiast from Bangladesh. 🚀
+- I enjoy building dynamic and user-friendly web applications, always learning new technologies, and contributing to open-source projects.
+- Currently, I am exploring Next.js  to enhance my full-stack development skills.
+
+<img src="" alt="" align="right" width="0" height="0"/> </a> 
+[![Languages](https://img.shields.io/badge/Languages-JavaScript-%23F7DF1E?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)   
+[![Learning](https://img.shields.io/badge/Currently%20Learning-Next.js-%20%26%20?style=for-the-badge)](https://nextjs.org)
+
+
+
+
+## 📌 Current Activities:
+- 🌱 Learning: Advanced React.js and Next.js.
+<!--- 🏗 Building: A tourism website with interactive UI/UX.-->
+- 🔥 Exploring: Server-side rendering (SSR) and Static Site Generation (SSG) in Next.js.
+- 🤝 Collaborating: On full-stack projects with MongoDB, Express, React, and Node.js (MERN Stack).
+
+
+
+## 🛠️ Tech Stack
 <div align="center">
-  <a href="https://www.linkedin.com/in/neyaz-morshid-0087a6317/" target="_blank">
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+    <br>HTML
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+    <br>CSS
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+    <br>JavaScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+    <br>React
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+    <br>Next.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+    <br>MongoDB
+  </td>
+ 
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+    <br>Tailwind
+  </td>
+</tr>
+</table>
+</div>
+
+## 📈 GitHub Analytics
+<p align="center">
+  <a href="https://github.com/neyaz14">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neyaz14&show_icons=true&theme=d"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaz14&layout=compact&theme=d"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=neyaz14&theme=d" alt="GitHub Streak Stats"/>
+</p>
+
+
+## 🤝 Connect With Me
+<p align="center">
+ 
+  <a href="mailto:neyazmorshid@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="40" alt="gmail logo"  />
+  </a>
+  
+<a href="https://www.linkedin.com/in/neyaz-morshid-0087a6317/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Neyaz0414" target="_blank">
@@ -16,54 +105,9 @@
   <a href="https://www.facebook.com/neyaz.morshid/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="85" height="40" alt="facebook logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="center">Hello, this is Neyaz Morshid, a passionate web developer.</h2>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hi 👋, I'm I am a first-year Physics student at the University of Jahangirnagar with a strong passion for web development. While pursuing my studies in Physics, I am also dedicated to advancing my skills in web development through the MEAN stack. I have completed coursework in HTML, CSS, Tailwind, JavaScript, ReactJs, MongoDB, and ExpressJs.<br><br>- 📚 I'm currently learning Next Js and GSAP</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="45" alt="firebase logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
-</div>
-
-###
+  
 
 
+</p>
 
-###
+  
