@@ -67,6 +67,10 @@
     <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
     <br>MongoDB
   </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongoose" width="48" height="48" alt="Mongoose" />
+    <br>Next.js
+  </td>
  
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
