@@ -1,13 +1,10 @@
 
-![Creative Studio Name LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/8e250acd-4d60-4773-bc1e-bf27604087dd)
+
 
 
 <div align="center">
   <!-- Header with gradient effect -->
-   <a href="https://git.io/typing-svg">
-    <img src="https://i.ibb.co.com/TDFSL6xg/Creative-Studio-Name-Linked-In-Article-Cover-Image.png" 
-         alt="Typing Animation">
-  </a>
+   ![Creative Studio Name LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/8e250acd-4d60-4773-bc1e-bf27604087dd)
   </div>
   
 </div>
