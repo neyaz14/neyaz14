@@ -1,4 +1,4 @@
-   ![Creative Studio Name LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/8e250acd-4d60-4773-bc1e-bf27604087dd)
+    ![Creative Studio Name LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/8e250acd-4d60-4773-bc1e-bf27604087dd)
 
 
 
