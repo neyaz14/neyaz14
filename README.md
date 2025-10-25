@@ -10,8 +10,6 @@
 </div>
 
 
-## 👩‍💻 About Me
-
 # 👋 Hi, I'm Neyaz Morshid 
 
 <!--![](https://komarev.com/ghpvc/?username=neyaz14&label=Profile%20Visits&color=blue&style=for-the-badge)-->
