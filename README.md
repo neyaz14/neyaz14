@@ -19,7 +19,7 @@
 - Currently, I am exploring Next.js  to enhance my full-stack development skills.
 
 <img src="" alt="" align="right" width="0" height="0"/> </a> 
-[![Languages](https://img.shields.io/badge/Languages-JavaScript-%23F7DF1E?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)(https://developer.mozilla.org/en-US/docs/Web/Typescript)   
+[![Languages](https://img.shields.io/badge/Languages-JavaScript-%23F7DF1E?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![Learning](https://img.shields.io/badge/Currently%20Learning-Next.js-%20%26%20?style=for-the-badge)](https://nextjs.org)
 
 
