@@ -14,7 +14,7 @@
 
 <!--![](https://komarev.com/ghpvc/?username=neyaz14&label=Profile%20Visits&color=blue&style=for-the-badge)-->
 
-- I’m a passionate Frontend Developer and React.js Enthusiast from Bangladesh. 🚀
+- I’m a passionate Backend Developer and NodeJS Enthusiast from Bangladesh. 🚀
 - I enjoy building dynamic and user-friendly web applications, always learning new technologies, and contributing to open-source projects.
 - Currently, I am exploring Next.js  to enhance my full-stack development skills.
 
